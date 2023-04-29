@@ -1,4 +1,5 @@
 I used interactive charts in my project in order to see it properly please use this link: 
+https://nbviewer.org/github/barbrender/AB_testing_Project/blob/main/AB_Testing_Project.ipynb
 
 # Online store - A/B testing Project
 Using A/B test to find the best hypotheses that may help boost revenue
